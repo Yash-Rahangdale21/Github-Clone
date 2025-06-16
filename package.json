@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Github Clone ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Yash Rahangdale",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^18.0.0"
+  }
+}
